@@ -27,7 +27,7 @@ TWCC : cm.2xsuper (TWCC 4 GPU + 16 cores + 240GB memory + 120GB share memory)
 類別|檔案名稱/用途|Jupyter Notebook|權重|結果圖片|
 --|--|--|--|--|
 Data Process|Data preprocess|[datapreprocess.ipynb](https://github.com/yungchang310514077/AICUP_STAS_Segmentation/blob/main/datapreprocess.ipynb)|-|-
-Model|DeepLabV3Plus with tu-eca_nfnet_l2|[eca_nfnet_l2_ver3_DeepLabV3Plus.ipynb](https://github.com/yungchang310514077/AICUP_STAS_Segmentation/blob/main/Finally_eca_nfnet_l2_ver3_DeepLabV3Plus.ipynb)|[Weight](https://drive.google.com/file/d/1Ybb1UDdhyX1QzX-EXkuX4scclWH5Xfaj/view?usp=sharing)|[Picture_zip]([https://drive.google.com/file/d/1Ybb1UDdhyX1QzX-EXkuX4scclWH5Xfaj/view?usp=sharing](https://github.com/yungchang310514077/AICUP_STAS_Segmentation/blob/main/Picture_tu-eca_nfnet_l2_ver3_DeepLabV3Plus.zip))|
+Model|DeepLabV3Plus with tu-eca_nfnet_l2|[eca_nfnet_l2_ver3_DeepLabV3Plus.ipynb](https://github.com/yungchang310514077/AICUP_STAS_Segmentation/blob/main/Finally_eca_nfnet_l2_ver3_DeepLabV3Plus.ipynb)|[Weight](https://drive.google.com/file/d/1Ybb1UDdhyX1QzX-EXkuX4scclWH5Xfaj/view?usp=sharing)|[Picture_zip](https://github.com/yungchang310514077/AICUP_STAS_Segmentation/blob/main/Picture_tu-eca_nfnet_l2_ver3_DeepLabV3Plus.zip)|
 
 # 檔案說明
 #### 資料前處理(Data preprocess)
